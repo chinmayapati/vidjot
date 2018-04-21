@@ -4,7 +4,7 @@
   "description": "A future video demand website",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "node app.js"
   },
   "author": "Chinmaya Pati",
   "license": "ISC",
